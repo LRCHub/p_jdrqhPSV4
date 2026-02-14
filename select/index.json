@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Igniter",
+  "base_artist": "Midnight Grand Orchestra",
+  "createdAt": "2026-02-14T08:05:41.330287Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Igniter",
+      "artist": "Ark Patrol feat. Josh Rubin",
+      "has_synced": true,
+      "path": "select/01_Igniter_Ark_Patrol_feat._Josh_Rubin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Igniter",
+      "artist": "Ark Patrol",
+      "has_synced": true,
+      "path": "select/02_Igniter_Ark_Patrol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Igniter",
+      "artist": "Butcher Babies",
+      "has_synced": true,
+      "path": "select/03_Igniter_Butcher_Babies.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reconciler. Refiner. Igniter.",
+      "artist": "Fallstar",
+      "has_synced": false,
+      "path": "select/04_Reconciler._Refiner._Igniter._Fallstar.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hunters (from album \"Reconciler. Refiner. Igniter.\")",
+      "artist": "Fallstar",
+      "has_synced": true,
+      "path": "select/05_Hunters_(from_album__Reconciler._Refiner._Igniter._)_Fallstar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "IGNITER",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/06_IGNITER_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Igniter",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": true,
+      "path": "select/07_Igniter_Midnight_Grand_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Igniter",
+      "artist": "Ark Patrol feat. Josh Rubin",
+      "has_synced": false,
+      "path": "select/08_Igniter_Ark_Patrol_feat._Josh_Rubin.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Igniter",
+      "artist": "Ark Patrol",
+      "has_synced": false,
+      "path": "select/09_Igniter_Ark_Patrol.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Igniter",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/10_Igniter_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "IGNITER (Live at 東京国際フォーラム ホールA 2018/7/26)",
+      "artist": "BUCK-TICK",
+      "has_synced": false,
+      "path": "select/11_IGNITER_(Live_at_東京国際フォーラム_ホールA_2018_7_26)_BUCK-TICK.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Igniter",
+      "artist": "Ark Patrol, Josh Rubin",
+      "has_synced": false,
+      "path": "select/12_Igniter_Ark_Patrol,_Josh_Rubin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Igniter",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": false,
+      "path": "select/pl_01_Igniter_Midnight_Grand_Orchestra.txt"
+    }
+  ]
+}
